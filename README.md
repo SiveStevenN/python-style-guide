@@ -7,7 +7,7 @@ This is Kenshoo's Python Style Guide. Using this style guide we hope to acheive 
 1. Admit and accept we may be wrong and change per the community's comments.
 
 We **DO NOT** wish the following:
-1. Say/claim/Imply there is a "right" or "wrong" way to do it.
+1. Say/claim/Imply there is a "right" or "wrong" way to do it!
 1. Claim this style guide is inclusive.
 1. Introduce ourselves as some kind of language "experts".
 
